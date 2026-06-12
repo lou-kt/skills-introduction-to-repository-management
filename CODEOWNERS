@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @lou-kt
+/src/backend/database.py      @lou-kt
+/src/backend/routers/auth.py  @lou-kt
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @lou-kt
